@@ -1,6 +1,6 @@
 # Strict AI Agent Governance Framework 🛡️
 
-A production-grade system prompt designed to cure "AI Laziness", prevent superficial code generation, and enforce strict architectural hygiene for AI coding assistants (like Claude 3.5 Sonnet, Aider, Cursor, and GPT-4o).
+A production-grade system prompt designed to cure "AI Laziness", prevent superficial code generation, and enforce strict architectural hygiene for AI coding assistants .
 
 ## Why use this?
 AI models often hallucinate test fixtures, use superficial search (`grep`), or delete code without understanding the full context. This prompt enforces a **Governance Framework** that forces the AI to act as a Principal Engineer.
